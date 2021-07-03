@@ -1,0 +1,2 @@
+# Speech-Recognition
+This project illustrates how to train a model to recognize phonetics of an audio input dataset and aims to generate a novel approach to recognize and classify the audio units by using CNN architecture and EfficientNets. Speech Commands Dataset is used as the dataset to create and implement and test the model. To represent and get the information from phones, a spectrogram is used which has a sliding window and obtains fixed size of images by analysing utterance transcriptions.
